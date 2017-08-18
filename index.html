@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Dashboard</title>
+		<meta charset="UTF-8">
+		<script src="jquery-2.2.1.min.js"></script>
+
+		<link href="dist/css/bootstrap.css" rel="stylesheet" type="text/css" />
+		<link href="css/docs.min.css" rel="stylesheet" type="text/css" />
+		<meta name="viewport"
+			  content="width=device-width, initial-scale=1, maximum-scale=1">
+
+
+		<script src="js/getDatos.js?v=1.12"></script>
+
+
+
+		<style>
+			
+			
+			
+			.titulos th{
+				font-size: 1.0em;
+			}
+
+			#logo{
+				position: relative;
+				top:-14px;
+			}
+
+
+			#contenidoTabla td {
+				font-size: 1.0em;
+				cursor: pointer;
+			}
+
+			.btn-default:focus, .btn-default:active, .btn-default.active {
+				background-color: #ffffff;
+			}
+
+			.btn-default:hover {
+				background-color: #ebebeb;
+			}
+
+			.btn:focus {
+				outline: none;
+			}
+
+			body {
+				padding-top: 70px;
+			}
+
+		
+
+			table{
+			width: 800px;
+			}
+
+		
+
+			table .v1{
+			background-color: green;
+			
+				
+				box-sizing: inherit;
+			}
+			
+			
+			table, tr, td, th {
+  border: 1px solid #000;
+  position: relative;
+  padding: 10px;
+}
+
+th span {
+  transform-origin: 0 50%;
+  transform: rotate(-90deg); 
+	-webkit-transform: rotate(-90deg); 
+-moz-transform: rotate(-90deg);
+	
+	
+	 -webkit-transform-origin: 0 50%;
+	-moz-transform-origin: 0 50%;
+  white-space: nowrap; 
+  display: block;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+}
+			
+		</style>
+		<script>
+
+
+
+			$(document).ready(
+				function() {
+    var header_height = 0;
+    $('table th span').each(function() {
+        if ($(this).outerWidth() > header_height) header_height = $(this).outerWidth();
+    });
+
+    $('table th').height(header_height);
+}
+			
+			
+			);
+
+
+		</script>
+	</head>
+
+
+	<body>
+		<nav class="navbar navbar-default navbar-fixed-top">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed"
+							data-toggle="collapse" data-target="#navbar" aria-expanded="false"
+							aria-controls="navbar">
+						<span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span
+																																		   class="icon-bar"></span>
+
+					</button>
+					<a class="navbar-brand"> <img src="imag/logo%20(3).png"
+												  class="icon-bar" width="130px" id="logo"></a>
+				</div>
+				<div id="navbar" class="navbar-collapse collapse">
+					<ul class="nav navbar-nav">
+						<li class="active"><a href="index.html">Dashboard</a></li>
+					</ul>
+
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="http://www.accenture.com" target="_blank">Powered by Accenture</a></li>
+					</ul>
+				</div>
+				<!--/.nav-collapse -->
+			</div>
+		</nav>
+		<div id="barra"></div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-9">
+
+					<table class="table">
+						<thead>
+							<tr>
+								<th>Integrante</th>
+								<th><span>EU Gestor</span></th>
+								<th><span>EU Gestor Web</span></th>
+								<th><span>SGA Resolutor</span></th>
+								<th><span>EU INM Resolutor</span></th>
+								<th><span>EU Portabilidad</span></th>
+								<th><span>EU OT Resolutor</span></th>
+
+
+
+								<th><span>Ventas</span></th>
+								<th><span>PostVentas</span></th>
+								<th><span>Fidelización</span></th>
+								<th><span>Soporte Hogar</span></th>
+								<th><span>Movil N3</span></th>
+								<th><span>Movil Análisis N3</span></th>
+								<th><span>Corporativo</span></th>
+								<th><span>OIM</span></th>
+
+								<th><span>Sharepoint</span></th>
+								<th><span>Prepago</span></th>
+								<th><span>Post-pago</span></th>
+
+
+							</tr>
+						</thead>
+						<tbody id="contenidoTabla">
+							<tr>
+							<td>Susana Astorga</td>
+								<td>100</td>
+								<td>-</td>
+								<td>10</td>
+								<td>-</td>
+								<td class="v1">10</td>
+								<td>-</td>
+								<td>10</td>
+								<td>-</td>
+								<td>10</td>
+								<td>-</td>
+								
+								<td>10</td>
+								<td>-</td>
+								<td>10</td>
+								<td>-</td>
+								
+								<td>-</td>
+								<td>10</td>
+								<td>-</td>
+							
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+
+
+
+
+	</body>
+</html>

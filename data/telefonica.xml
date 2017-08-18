@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<performance>
+<performaceProveedor><colores>verde,rojo,rojo,verde,rojo</colores><idProveedor>1</idProveedor><proveedor>INCIDENCIAS_MOVIL</proveedor><valores>15,25,184,0,249</valores></performaceProveedor>
+<performaceProveedor><colores>verde,rojo,rojo,verde,rojo</colores><idProveedor>2</idProveedor><proveedor>MESA DE CONSUMOS</proveedor><valores>15,25,184,0,249</valores></performaceProveedor>
+<performaceProveedor><colores>verde,rojo,rojo,verde,rojo</colores><idProveedor>3</idProveedor><proveedor>ACCENTURE N2</proveedor><valores>15,25,184,0,249</valores></performaceProveedor>
+<performaceProveedor><colores>verde,rojo,rojo,verde,rojo</colores><idProveedor>4</idProveedor><proveedor>MESA DE AYUDA</proveedor><valores>15,25,184,0,249</valores></performaceProveedor>
+</performance>

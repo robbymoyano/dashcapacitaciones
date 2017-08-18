@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<performance>
+<PerformaceProveedor> <idProveedor>1</idProveedor><proveedor>EU INM RESOLUTOR REPROCESO MASIVO</proveedor><valores>0,1,7,0,11</valores><colores>verde,verde,verde,verde,verde</colores></PerformaceProveedor>
+<PerformaceProveedor> <idProveedor>1</idProveedor><proveedor>EU OT_RESOLUTOR</proveedor><valores>0,1,1,0,5</valores><colores>verde,verde,verde,verde,verde</colores></PerformaceProveedor>
+<PerformaceProveedor> <idProveedor>1</idProveedor><proveedor>EU GESTOR</proveedor><valores>5,1,1,5,0</valores><colores>verde,verde,verde,verde,verde</colores></PerformaceProveedor>
+<PerformaceProveedor> <idProveedor>1</idProveedor><proveedor>EU PORTABILIDAD</proveedor><valores>1,1,1,1,0</valores><colores>verde,verde,verde,verde,verde</colores></PerformaceProveedor>
+<PerformaceProveedor> <idProveedor>1</idProveedor><proveedor>EU INM_RESOLUTOR</proveedor><valores>5,1,1,5,4</valores><colores>verde,verde,verde,verde,verde</colores></PerformaceProveedor>
+<PerformaceProveedor> <idProveedor>1</idProveedor><proveedor>EU SGA_RESOLUTOR</proveedor><valores>3,1,1,1,2</valores><colores>verde,verde,verde,verde,verde</colores></PerformaceProveedor>
+<PerformaceProveedor> <idProveedor>1</idProveedor><proveedor>EU GESTOR WEB</proveedor><valores>0,0,0,0,0</valores><colores>verde,verde,verde,verde,verde</colores></PerformaceProveedor>
+</performance>

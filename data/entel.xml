@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<performance>
+<PerformaceProveedor> <idProveedor>1</idProveedor><proveedor>EU DESA PLATAFORMAS COMERCIALES</proveedor><valores>0,4,24,0,123</valores><colores>verde,verde,rojo,verde,amarillo</colores></PerformaceProveedor>
+<PerformaceProveedor> <idProveedor>1</idProveedor><proveedor>EU SOPORTE OIM</proveedor><valores>0,0,12,0,6</valores><colores>verde,verde,rojo,verde,verde</colores></PerformaceProveedor>
+<PerformaceProveedor> <idProveedor>1</idProveedor><proveedor>EU PLATAFORMAS ADMINISTRATIVAS CONSULTORIA</proveedor><valores>1,1,2,1,1</valores><colores>verde,verde,verde,verde,verde</colores></PerformaceProveedor>
+<PerformaceProveedor> <idProveedor>1</idProveedor><proveedor>EU APLIC CRM FIJA REQUERIMIENTO</proveedor><valores>0,0,2,0,1</valores><colores>verde,verde,verde,verde,verde</colores></PerformaceProveedor>
+<PerformaceProveedor> <idProveedor>1</idProveedor><proveedor>EU SOPORTE WORKFLOW PROVISION INCIDENTE</proveedor><valores>8,1,2,8,21</valores><colores>verde,verde,verde,verde,verde</colores></PerformaceProveedor>
+<PerformaceProveedor> <idProveedor>1</idProveedor><proveedor>EU SOPORTE PROVISION - INVENTARIOS INCIDENTE</proveedor><valores>0,1,1,0,2</valores><colores>verde,verde,verde,verde,verde</colores></PerformaceProveedor>
+<PerformaceProveedor> <idProveedor>1</idProveedor><proveedor>EU APLIC CRM FIJA INCIDENTE CRITICA</proveedor><valores>1,1,1,1,1</valores><colores>verde,verde,verde,verde,verde</colores></PerformaceProveedor>
+<PerformaceProveedor> <idProveedor>1</idProveedor><proveedor>EU SOPORTE HOGAR</proveedor><valores>1,1,1,1,55</valores><colores>verde,verde,verde,verde,verde</colores></PerformaceProveedor>
+<PerformaceProveedor> <idProveedor>1</idProveedor><proveedor>EU PLATAFORMAS ADMINISTRATIVAS INCIDENTE</proveedor><valores>0,1,1,0,1</valores><colores>verde,verde,verde,verde,verde</colores></PerformaceProveedor>
+<PerformaceProveedor> <idProveedor>1</idProveedor><proveedor>EU DESA APLIC CRM FIJA CRITICA</proveedor><valores>0,0,0,0,0</valores><colores>verde,verde,verde,verde,verde</colores></PerformaceProveedor>
+<PerformaceProveedor> <idProveedor>1</idProveedor><proveedor>EU DESA APLIC CRM FIJA</proveedor><valores>0,0,0,0,0</valores><colores>verde,verde,verde,verde,verde</colores></PerformaceProveedor>
+<PerformaceProveedor> <idProveedor>1</idProveedor><proveedor>EU SOPORTE WORKFLOW PROVISION REQUERIMIENTO</proveedor><valores>0,0,0,0,0</valores><colores>verde,verde,verde,verde,verde</colores></PerformaceProveedor>
+<PerformaceProveedor> <idProveedor>1</idProveedor><proveedor>EU SOPORTE ACTIVADORES REQUERIMIENTO</proveedor><valores>0,0,0,0,0</valores><colores>verde,verde,verde,verde,verde</colores></PerformaceProveedor>
+<PerformaceProveedor> <idProveedor>1</idProveedor><proveedor>EU APLIC CRM FIJA INCIDENTE</proveedor><valores>0,0,0,0,0</valores><colores>verde,verde,verde,verde,verde</colores></PerformaceProveedor>
+</performance>

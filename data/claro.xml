@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<performance>
+<PerformaceProveedor><idProveedor>1</idProveedor><proveedor>CLARO - TRAFICO</proveedor><valores>1,0,0,0,4</valores><colores>verde,verde,verde,verde,verde</colores></PerformaceProveedor>
+<PerformaceProveedor><idProveedor>2</idProveedor><proveedor>CLARO - PORTABILIDAD</proveedor><valores>3,0,0,0,0</valores><colores>verde,verde,verde,verde,verde</colores></PerformaceProveedor>
+<PerformaceProveedor><idProveedor>3</idProveedor><proveedor>CLARO - VENTAS</proveedor><valores>1,0,0,0,0</valores><colores>verde,verde,verde,verde,verde</colores></PerformaceProveedor>
+<PerformaceProveedor><idProveedor>4</idProveedor><proveedor>CLARO - REPORTES</proveedor><valores>2,0,0,0,18</valores><colores>verde,verde,verde,verde,verde</colores></PerformaceProveedor>
+<PerformaceProveedor><idProveedor>5</idProveedor><proveedor>CLARO - CARTERAS</proveedor><valores>1,0,0,0,5</valores><colores>verde,verde,verde,verde,verde</colores></PerformaceProveedor>
+<PerformaceProveedor><idProveedor>3</idProveedor><proveedor>CLARO - BASE POSTPAGO</proveedor><valores>0,0,0,0,1</valores><colores>verde, verde, verde, verde ,verde</colores></PerformaceProveedor>
+<PerformaceProveedor><idProveedor>5</idProveedor><proveedor>CLARO - CHURN</proveedor><valores>0,0,0,0,1</valores><colores>verde, verde, verde, verde ,verde</colores></PerformaceProveedor>
+<PerformaceProveedor><idProveedor>7</idProveedor><proveedor>CLARO - SVA</proveedor><valores>0,0,0,0,2</valores><colores>verde, verde, verde, verde ,verde</colores></PerformaceProveedor>
+</performance>
